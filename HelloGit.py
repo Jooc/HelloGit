@@ -5,6 +5,9 @@
 # @File    : HelloGit.py
 # @Project : HelloGit
 
-print("Hello Git!")
+# Do not print the 1st Hello
+# print("Hello Git!")
 
 print("Hello Another Git!")
+
+print("Hello Final Git!")
